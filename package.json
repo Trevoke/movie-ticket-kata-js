@@ -1,0 +1,20 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-sorted": "^0.2.0",
+    "mocha": "^7.2.0",
+    "sinon": "^9.0.2",
+    "sinon-chai": "^3.5.0"
+  }
+}
