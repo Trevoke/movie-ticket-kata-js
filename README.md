@@ -49,7 +49,7 @@ modifications
 ## Scoring
 
 - quantitative: 1 point per test case completed (max 16)
-- qualitative: consistent, clean, idionmatic code
+- qualitative: consistent, clean, idiomatic code
 
 ## A Sample Interface
 
