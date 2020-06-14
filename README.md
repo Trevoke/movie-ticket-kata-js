@@ -1,7 +1,5 @@
 # Movie Ticket Kata
 
-First, head [here](https://carbonfive.zoom.us/j/263187272) to join our Zoom meeting. It will help me following along while you work through the assignment.
-
 ## What Are We Building?
 
 Write a program that calculates purchase price for movie tickets *using any language you like*. It should not be a full-blown web app; it can be a simple class or collection of methods invokable by your test suite. We'll provide you with some requirements, test-cases, and even a sample interface - all you have to do is give us some software.
